@@ -67,6 +67,9 @@ Learn how to quickly create a Hosted Web App for Windows 10 starting with your w
 	* Click or touch the System Prompt button to access the Windwos namespace from the script in the codepen
 
 	<br>
+	**Codepen running as a Hosted Web App and Calling the Natie System Prompt UI**
+	<img src="{{site.baseurl}}/images/CreateHWA/systemPrompt.PNG">
+	<br>
 
 7. **Add toast notifications** 
 	* Just copy and paste the JavaScript code for Toast Notifications directly into the JS editor of the codepen
@@ -75,3 +78,7 @@ Learn how to quickly create a Hosted Web App for Windows 10 starting with your w
 	<br>
 	**Toast notifications**
 	{% gist 2a08ea82483a0578d1aa %}
+	<br>
+	**Codepen Calling Native Toast Notification**
+	<img src="{{site.baseurl}}/images/CreateHWA/CodepenToast.PNG">
+	<br>
