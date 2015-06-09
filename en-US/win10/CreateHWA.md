@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CreateHWA
+title: Create a Hosted Web App
 permalink: /en-US/win10/CreateHWA.htm
 lang: en-US
 ---
