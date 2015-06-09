@@ -57,6 +57,10 @@ Learn how to quickly create a Hosted Web App for Windows 10 starting with your w
 	* There are three levels of access "none" for no access (default value), "AllowForWeb" access to local in package runtime components, "all" access to the Windows namespace from remote code.
 
 	<br>
+	**XML to Add in the Manifest**
+	{% gist 8df352b057d7bdc14a2d %}
+
+	<br>
 	**Appx Manifest Additions**
 	<img src="{{site.baseurl}}/images/CreateHWA/ManifestAddition.PNG">
 
