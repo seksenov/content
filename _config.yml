@@ -1,7 +1,7 @@
 # Site settings
 baseurl: "/content"
-url: "http://ms-iot.github.io/content"
-repositoryurl: "https://github.com/ms-iot/content/blob/develop/"
+url: "http://seksenov.github.io/content"
+repositoryurl: "https://github.com/seksenov/content/blob/develop/"
 landingurl: "/content/en-US/win10/CreateHWA.htm"
 hacksterurl: "http://microsoft.hackster.io"
 hardwareurl: "http://go.microsoft.com/fwlink/p/?linkID=532948"

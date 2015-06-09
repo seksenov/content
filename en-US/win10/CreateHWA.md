@@ -74,4 +74,4 @@ Learn how to quickly create a Hosted Web App for Windows 10 starting with your w
 
 	<br>
 	**Toast notifications**
-	{% gist 3d471150e5b317eb1813 %}
+	{% gist 2a08ea82483a0578d1aa %}
