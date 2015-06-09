@@ -43,7 +43,7 @@ Learn how to quickly create a Hosted Web App for Windows 10 starting with your w
 
 	<br>
 
-4. **Set the Start Page URL in the App Manifest*
+4. **Set the Start Page URL in the App Manifest**
 	* Open the package.appxmanifest file
 	* Under the <Application> node find the StartPage="default.html" tag
 	* Replace "default.html" with "http://mysite.com/"
